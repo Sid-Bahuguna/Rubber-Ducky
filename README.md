@@ -45,8 +45,8 @@ Copy the adafruit-circuitpython-raspberry_pi_pico2_w-en_US-9.2.1.uf2 file to the
 ### Setup mode
 
 To edit the payload, enter setup mode by connecting the pin 1 (`GP0`) to pin 3 (`GND`), this will stop the pico-ducky from injecting the payload in your own machine. The easiest way to do so is by using a jumper wire between those pins as seen bellow.
+<img width="685" height="325" alt="image" src="https://github.com/user-attachments/assets/08f7af34-33a1-4ff1-a8b5-1984e2e65d46" />
 
-https://github.com/dbisu/pico-ducky/blob/main/images/setup-mode.png 
 
 ### USB enable/disable mode
 
