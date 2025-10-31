@@ -2,10 +2,8 @@
 
 ## Quick Start Guide
 
-## Download the latest release from the  [Pico-ducky](https://github.com/dbisu/pico-ducky/releases) 
-
-
-## Plug the device into a USB port while holding the boot button. It will show up as a removable media device named RPI-RP2.
+- [Pico-ducky](https://github.com/dbisu/pico-ducky/releases) -Download the latest releases
+- Plug the device into a USB port while holding the boot button. It will show up as a removable media device named RPI-RP2.
 
 
 ## Install CircutlPython on the Pico or Pico W 
@@ -48,7 +46,7 @@ Copy the adafruit-circuitpython-raspberry_pi_pico2_w-en_US-9.2.1.uf2 file to the
 
 To edit the payload, enter setup mode by connecting the pin 1 (`GP0`) to pin 3 (`GND`), this will stop the pico-ducky from injecting the payload in your own machine. The easiest way to do so is by using a jumper wire between those pins as seen bellow.
 
-![[Pasted image 20250924234941.png]]
+https://github.com/dbisu/pico-ducky/blob/main/images/setup-mode.png 
 
 ### USB enable/disable mode
 
