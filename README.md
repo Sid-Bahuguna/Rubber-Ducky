@@ -124,9 +124,9 @@ GP11 - payload4.dd
 
 
 ### Links 
-[pico-ducky-github](https://github.com/dbisu/pico-ducky/)
-[ducky-scripts](https://github.com/SourasishBasu/PicoW-Ducky/)
-[hak5-ducky-scripts](https://github.com/hak5/usbrubberducky-payloads)
+- [pico-ducky-github](https://github.com/dbisu/pico-ducky/)
+- [ducky-scripts](https://github.com/SourasishBasu/PicoW-Ducky/)
+- [hak5-ducky-scripts](https://github.com/hak5/usbrubberducky-payloads)
 
 
 
